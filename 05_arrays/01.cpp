@@ -4,6 +4,8 @@ using namespace std;
 
 int main(){
 
+    //Find Lowest Value in the array
+
 
     int arr[5] = {5,9,1,7,2};
     int ans = INT_MAX;
